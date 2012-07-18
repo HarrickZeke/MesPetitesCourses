@@ -12,5 +12,11 @@ namespace MesPetitesCourses
     /// </summary>
     public partial class App : Application
     {
+        /// Début
+        /// 
+        public String afficheChaine()
+        {
+            return "Bonjour";
+        }
     }
 }
